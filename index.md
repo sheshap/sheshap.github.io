@@ -13,9 +13,27 @@ Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"A Novel Local Ge
 # Education
 
 Master of Science in Computer Science. May 2018
+
 Syracuse University, Syracuse, New York, USA.
 
-# Coursework
+# Professional Experience
+
+**IT Consultant - Oracle India Private Limited, Bengaluru. (October 2012 - June 2016)**
+
+• Implemented Oracle Fusion, EBS R12 Applications and worked dedicatedly at client location
+(Alcoa, Pittsburgh, PA, May’14-Oct’14) during the testing of product (pre, during, post go-live).
+
+• Trainings : UNIX Fundamentals, SQL/PLSQL, Oracle Database 11g Admin Workshop I and II.
+
+**Intern - Infineon Technologies Private Ltd, Bengaluru. (July 2011 - May 2012)**
+
+• Built a metric based Post-Silicon Validation tracking system (coverage information).
+
+• Developed Automation scripts across teams and resolved issues for a specific tool.
+
+# Programming Languages
+(https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
+# Frameworks
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
