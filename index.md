@@ -26,16 +26,19 @@ Regional Conference on Complex Systems (NERCCS) - 2018**
 Master of Science in Computer Science. May 2018<br>Syracuse University, Syracuse, New York, USA.
 
 ## Professional Experience
-**Instructor: University of Delaware** Summer 2020<br>
+**University of Delaware** <br>
+Instructor: Summer 2020<br>
 CISC 210 Introduction to Systems Programming (Online - 43 students)
 
-**IT Consultant: Oracle India Private Limited, Bengaluru** Oct 2012 - Jun 2016<br>
+**Oracle India Private Limited, Bengaluru**<br>
+IT Consultant: Oct 2012 - Jun 2016<br>
 *Implemented Oracle Fusion, EBS R12 Applications at client location (Alcoa, Pittsburgh, PA, May’14-Oct’14) for product go-live.*<br>
 *Trainings: UNIX Fundamentals, SQL/PLSQL, Oracle Database 11g Admin Workshop I and II.*
 
-**Intern: Infineon Technologies Private Ltd, Bengaluru** July 2011 - May 2012<br>
+**Infineon Technologies Private Ltd, Bengaluru**<br>
+Intern: July 2011 - May 2012<br>
 *Built a metric based Post-Silicon Validation tracking system.*<br>
-*Developed Automation scripts across teams and resolved issues for a specific tool.<br>*
+*Developed Automation scripts across teams and resolved issues for a specific tool.*<br>
 *Published a white paper on Post-Silicon Validation Coverage.*
 
 ## Programming Languages
