@@ -1,3 +1,7 @@
+I am a graduate student at the Dept. of Computer and Information Sciences at the University of Delaware. I am doing my research at the [VIMS Laboratory](http://vims.cis.udel.edu/) under the guidance of [Dr. Chandra Kambhamettu](https://www.eecis.udel.edu/~chandra/). I did my Bachelors in Computer Science and Engineering at M.S.Ramaiah Institute of Technology, Bangalore (2009), a Masters in Computer Science and Engineering at R.V. College of Engineering, Bangalore(2012), interned at Infineon Technologies Private Limited (2012), worked as an IT Consultant at Oracle India Private Limited (2012-2016) and did a Masters in Computer Science at Syracuse University, New York (2018).
+
+My research interests are Point cloud Classification, 3D Graph Convolutional Networks, and Geometry Processing.
+
 ## Publications
 
 [EllipsoidQuerying](https://github.com/VimsLab/EllipsoidQuery/) 
