@@ -27,7 +27,14 @@ Regional Conference on Complex Systems (NERCCS) - 2018**
 [[Code]](https://github.com/sheshap/SoilMoisturePrediction)
 
 ## Education
-Master of Science in Computer Science. May 2018<br>Syracuse University, Syracuse, New York, USA.
+Master of Science in Computer Science. May 2018<br>
+Syracuse University, Syracuse, New York, USA.<br>
+
+Master of Technology in Computer Science and Engineering. August 2012<br>
+R.V. College of Engineering, Bengaluru (India).<br>
+
+Bachelor of Engineering in Computer Science and Engineering. June 2009<br>
+M.S.Ramaiah Institute of Technology, Bengaluru (India).<br>
 
 ## Professional Experience
 **University of Delaware** <br>
