@@ -9,9 +9,11 @@ Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"A Novel Local Ge
 
 [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w16/Sheshappanavar_A_Novel_Local_Geometry_Capture_in_PointNet_for_3D_Classification_CVPRW_2020_paper.html)[[Code]](https://github.com/VimsLab/EllipsoidQuery/)
 
+
+### Other Publications
 [Soil Moisture Prediction](https://github.com/sheshap/SoilMoisturePrediction)
 
-<img src="images/soil_moisture.gif?raw=true" width="300" height="200"/> 
+<img src="images/soil_moisture.gif?raw=true" width="400" height="220"/> 
 
 
 Shivanand Venkanna Sheshappanavar, Chilukuri K. Mohan, and David G. Chandler, **"LSTM based Soil Moisture Prediction", proceedings of the North Eastern
