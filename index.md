@@ -30,7 +30,7 @@ CISC 210 Introduction to Systems Programming (Online - 43 students)
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" width="70" height="70"/>      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg?raw=true" width="70" height="70"/>      <img src="https://github.com/valohai/ml-logos/blob/master/cuda.svg?raw=true" width="70" height="70"/>     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?raw=true" width="70" height="70"/>
 
 ## Frameworks
-<img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg?raw=true" width="100" height="100"/>   <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg?raw=true" width="100" height="100"/>   <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg?raw=true" width="100" height="100"/>      <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg?raw=true" width="100" height="100"/>   
+<img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg?raw=true" width="100" height="50"/>   <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg?raw=true" width="100" height="50"/>   <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg?raw=true" width="100" height="50"/>      <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg?raw=true" width="100" height="50"/>   
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
