@@ -11,7 +11,7 @@ Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"A Novel Local Ge
 
 [Soil Moisture Prediction](https://github.com/sheshap/SoilMoisturePrediction)
 
-<img src="images/soil_moisture.gif?raw=true" width="300" height="300"/> 
+<img src="images/soil_moisture.gif?raw=true" width="300" height="200"/> 
 
 
 Shivanand Venkanna Sheshappanavar, Chilukuri K. Mohan, and David G. Chandler, **"LSTM based Soil Moisture Prediction", proceedings of the North Eastern
