@@ -1,4 +1,4 @@
-# Publications
+## Publications
 
 [EllipsoidQuerying](https://github.com/VimsLab/EllipsoidQuery/) 
 
@@ -10,25 +10,24 @@ Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"A Novel Local Ge
 [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w16/Sheshappanavar_A_Novel_Local_Geometry_Capture_in_PointNet_for_3D_Classification_CVPRW_2020_paper.html)[[Code]](https://github.com/VimsLab/EllipsoidQuery/)
 
 
-# Education
-Master of Science in Computer Science. May 2018
-Syracuse University, Syracuse, New York, USA.
+## Education
+Master of Science in Computer Science. May 2018<br>Syracuse University, Syracuse, New York, USA.
 
-# Professional Experience
-**IT Consultant - Oracle India Private Limited, Bengaluru. Oct 2012 - Jun 2016**
-*Implemented Oracle Fusion, EBS R12 Applications at client location (Alcoa, Pittsburgh, PA, May’14-Oct’14) for product go-live.*
+## Professional Experience
+**IT Consultant** Oracle India Private Limited, Bengaluru. Oct 2012 - Jun 2016<br>
+*Implemented Oracle Fusion, EBS R12 Applications at client location (Alcoa, Pittsburgh, PA, May’14-Oct’14) for product go-live.*<br>
 *Trainings : UNIX Fundamentals, SQL/PLSQL, Oracle Database 11g Admin Workshop I and II.*
 
-**Intern - Infineon Technologies Private Ltd, Bengaluru. July 2011 - May 2012**
-*Built a metric based Post-Silicon Validation tracking system (coverage information).*
+**Intern** Infineon Technologies Private Ltd, Bengaluru. July 2011 - May 2012<br>
+*Built a metric based Post-Silicon Validation tracking system (coverage information).*<br>
 *Developed Automation scripts across teams and resolved issues for a specific tool.*
 *Published a white paper on Post-Silicon Validation Coverage*
 
-# Programming Languages
+## Programming Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" width="50" height="50"/>      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg?raw=true" width="50" height="50"/>      <img src="https://github.com/valohai/ml-logos/blob/master/cuda.svg?raw=true" width="50" height="50"/>     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?raw=true" width="50" height="50"/>
 
-# Frameworks
-<img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg?raw=true" width="50" height="50"/>   <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg?raw=true" width="50" height="50"/>   <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg?raw=true" width="50" height="50"/>      <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg?raw=true" width="50" height="50"/>   
+## Frameworks
+<img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg?raw=true" width="100" height="100"/>   <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg?raw=true" width="100" height="100"/>   <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg?raw=true" width="100" height="100"/>      <img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg?raw=true" width="100" height="100"/>   
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
