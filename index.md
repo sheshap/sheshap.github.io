@@ -2,21 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Publications
 
 [EllipsoidQuerying](/sample_page)
 <img src="images/ellipsoid_querying.gif?raw=true"/>
-
----
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-
----
-
-
 
 
 ---
