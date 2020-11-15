@@ -3,23 +3,17 @@ I am a graduate student at the Dept. of Computer and Information Sciences at the
 My research interests are [Point cloud Classification](https://arxiv.org/pdf/1912.12033.pdf), 3D [Graph Convolutional Networks](https://arxiv.org/pdf/1901.00596.pdf), and Geometry Processing.
 
 ## Publications
-
-[EllipsoidQuerying](https://github.com/VimsLab/EllipsoidQuery/) 
-
-<img src="images/ellipsoid_querying.gif?raw=true" width="300" height="300"/> 
-
-
+<br>
+<img src="images/ellipsoid_querying.gif?raw=true" width="200" height="200"/> 
+<br>
 Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"A Novel Local Geometry Capture in PointNet++ for 3D Classification." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020.**
 
 [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w16/Sheshappanavar_A_Novel_Local_Geometry_Capture_in_PointNet_for_3D_Classification_CVPRW_2020_paper.html)[[Code]](https://github.com/VimsLab/EllipsoidQuery/)
 
-
 ### Other Publications
-[Soil Moisture Prediction](https://github.com/sheshap/SoilMoisturePrediction)
 
-<img src="images/soil_moisture.gif?raw=true" width="400" height="220"/> 
-
-
+<img src="images/soil_moisture.gif?raw=true" width="200" height="120"/> 
+<br>
 Shivanand Venkanna Sheshappanavar, Chilukuri K. Mohan, and David G. Chandler, **"LSTM based Soil Moisture Prediction", proceedings of the North Eastern
 Regional Conference on Complex Systems (NERCCS) - 2018**
 
@@ -53,9 +47,8 @@ Intern: July 2011 - May 2012<br>
 
 ## Awards
 Graduate Student Award, Syracuse University. August 2016 - May 2018<br>
-Research Assistantship, Dept of EECS, Syracuse University , Syracuse, NY.<br>
 Third Prize - iTech Days, Infineon India Private Limited, Bengaluru. May 2012 <br>
-"Digital Validation Health : A metric driven approach to measure readiness of Silicon".<br>
+
 
 ## Programming Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" width="70" height="70"/>      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg?raw=true" width="70" height="70"/>      <img src="https://github.com/valohai/ml-logos/blob/master/cuda.svg?raw=true" width="70" height="70"/>     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?raw=true" width="70" height="70"/>
