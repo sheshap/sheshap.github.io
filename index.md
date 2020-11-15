@@ -40,6 +40,12 @@ Intern: July 2011 - May 2012<br>
 *Built a metric based Post-Silicon Validation tracking system.*<br>
 *Published a white paper on Post-Silicon Validation Coverage.*
 
+## Awards
+Graduate Student Award, Syracuse University. August 2016 - May 2018<br>
+Research Assistantship, Dept of EECS, Syracuse University , Syracuse, NY, USA.<br>
+Third Prize - iTech Days, Infineon India Private Limited, Bengaluru. May 2012 <br>
+"Digital Validation Health : A metric driven approach to measure readiness of Silicon".<br>
+
 ## Programming Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" width="70" height="70"/>      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg?raw=true" width="70" height="70"/>      <img src="https://github.com/valohai/ml-logos/blob/master/cuda.svg?raw=true" width="70" height="70"/>     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?raw=true" width="70" height="70"/>
 
