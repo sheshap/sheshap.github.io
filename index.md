@@ -46,7 +46,7 @@ Intern: July 2011 - May 2012<br>
 
 ## Awards
 Graduate Student Award, Syracuse University. August 2016 - May 2018<br>
-Research Assistantship, Dept of EECS, Syracuse University , Syracuse, NY, USA.<br>
+Research Assistantship, Dept of EECS, Syracuse University , Syracuse, NY.<br>
 Third Prize - iTech Days, Infineon India Private Limited, Bengaluru. May 2012 <br>
 "Digital Validation Health : A metric driven approach to measure readiness of Silicon".<br>
 
