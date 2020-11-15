@@ -38,7 +38,6 @@ IT Consultant: Oct 2012 - Jun 2016<br>
 **Infineon Technologies Private Ltd, Bengaluru**<br>
 Intern: July 2011 - May 2012<br>
 *Built a metric based Post-Silicon Validation tracking system.*<br>
-*Developed Automation scripts across teams and resolved issues for a specific tool.*<br>
 *Published a white paper on Post-Silicon Validation Coverage.*
 
 ## Programming Languages
