@@ -9,6 +9,16 @@ Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"A Novel Local Ge
 
 [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w16/Sheshappanavar_A_Novel_Local_Geometry_Capture_in_PointNet_for_3D_Classification_CVPRW_2020_paper.html)[[Code]](https://github.com/VimsLab/EllipsoidQuery/)
 
+[Soil Moisture Prediction](https://github.com/sheshap/SoilMoisturePrediction)
+
+<img src="images/soil_moisture.gif?raw=true" width="300" height="300"/> 
+
+
+Shivanand Venkanna Sheshappanavar, Chilukuri K. Mohan, and David G. Chandler, **"LSTM based Soil Moisture Prediction", proceedings of the North Eastern
+Regional Conference on Complex Systems (NERCCS) - 2018**
+
+[[Paper]](https://github.com/sheshap/sheshap.github.io/blob/master/pdf/SoilMoisturePrediction_LSTM_NERCCS_2018.pdf)
+[[Code]](https://github.com/sheshap/SoilMoisturePrediction)
 
 ## Education
 Master of Science in Computer Science. May 2018<br>Syracuse University, Syracuse, New York, USA.
