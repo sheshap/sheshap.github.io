@@ -1,12 +1,12 @@
 title: Shivanand Venkanna Sheshappanavar # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  PhD Student (Computer Vision & Deep Learning)
+  PhD Student (Computer Science)<br>
+  Computer Vision & Deep Learning
   <br>
   <a href="https://www.linkedin.com/in/ssheshappanavar/">LinkedIn</a>
   <br>
   <a href="https://scholar.google.com/citations?hl=en&user=I1ajnioAAAAJ">Google Scholar</a>
-  <br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
