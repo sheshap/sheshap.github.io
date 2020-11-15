@@ -1,4 +1,4 @@
-### Publications
+## Publications
 
 [EllipsoidQuerying](/sample_page) 
 
@@ -6,9 +6,7 @@ Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. "A Novel Local Geom
 
 - [Code] (https://github.com/VimsLab/EllipsoidQuery/)
 - [Link] (https://openaccess.thecvf.com/content_CVPRW_2020/html/w16/Sheshappanavar_A_Novel_Local_Geometry_Capture_in_PointNet_for_3D_Classification_CVPRW_2020_paper.html)
-
-
-<img src="images/ellipsoid_querying.gif?raw=true"/>
+<img src="images/ellipsoid_querying.gif?raw=true"/ width="200" height="200">
 
 
 ---
