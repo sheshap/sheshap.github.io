@@ -5,7 +5,7 @@ My research interests are [Point cloud Classification](https://arxiv.org/pdf/191
 ## Publications
 
 ### Under Review
-Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"Dynamic Local Geometry Capture in 3D Point Cloud Classification." Proceedings of the IEEE 4th International Conference on Multimedia Information Processing and Retrieval (IEEE MIPR 2021)
+Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"Dynamic Local Geometry Capture in 3D Point Cloud Classification." Proceedings of the IEEE 4th International Conference on Multimedia Information Processing and Retrieval (IEEE MIPR 2021).**
 
 ### Accepted 
 <br>
