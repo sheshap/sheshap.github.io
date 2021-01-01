@@ -61,7 +61,7 @@ Third Prize - iTech Days, Infineon India Private Limited, Bengaluru. May 2012 <b
 
 ## Relevant Coursework
 <br>
-<img src="images/1dl.jpeg?raw=true" width="100" height="120"/><img src="images/2dl.jpeg?raw=true" width="100" height="120"/><img src="images/3dl.jpeg?raw=true" width="100" height="120"/> 
+<img src="images/1dl.jpeg?raw=true" width="200" height="120"/><img src="images/2dl.jpeg?raw=true" width="200" height="120"/><img src="images/3dl.jpeg?raw=true" width="200" height="120"/> 
 <br>
 CISC 889 Neural Networkss & Deep Learning(Spring’20)<br>CISC 849 Robot Vision & Learning(Fall’19)<br>CIS 700 Advances in Deep Learning(Spring’18)<br>CIS 731 Artificial Neural Networks(Fall’17<br>
 
