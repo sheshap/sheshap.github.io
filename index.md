@@ -14,17 +14,17 @@ Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"Dynamic Local Ge
 <img src="images/ellipsoid_querying.gif?raw=true" width="200" height="200"/> 
 <br>
 Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"A Novel Local Geometry Capture in PointNet++ for 3D Classification." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020.**
-
 [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w16/Sheshappanavar_A_Novel_Local_Geometry_Capture_in_PointNet_for_3D_Classification_CVPRW_2020_paper.html)[[Code]](https://github.com/VimsLab/EllipsoidQuery/)
 
 <img src="images/soil_moisture.gif?raw=true" width="200" height="120"/> 
 <br>
 Shivanand Venkanna Sheshappanavar, Chilukuri K. Mohan, and David G. Chandler, **"LSTM based Soil Moisture Prediction", proceedings of the North Eastern
 Regional Conference on Complex Systems (NERCCS) - 2018**
-
 [[Paper]](https://github.com/sheshap/sheshap.github.io/blob/master/pdf/SoilMoisturePrediction_LSTM_NERCCS_2018.pdf)
 [[Code]](https://github.com/sheshap/SoilMoisturePrediction)
+
 <br>
+
 Manish, et al,**HoS : A metric driven approach to measure Quality/Health of Silicon**, 2nd Runner up, iTech Days 2012, Infineon Technologies India Pvt Ltd, Bengaluru.
 
 ## Conference Paper Reviewer
@@ -61,7 +61,7 @@ Third Prize - iTech Days, Infineon India Private Limited, Bengaluru. May 2012 <b
 
 ## Relevant Coursework
 <br>
-<img src="images/1dl.jpeg?raw=true" width="200" height="180"/><img src="images/2dl.jpeg?raw=true" width="200" height="180"/><img src="images/3dl.jpeg?raw=true" width="200" height="180"/> 
+<img src="images/1dl.jpeg?raw=true" width="100" height="120"/><img src="images/2dl.jpeg?raw=true" width="100" height="120"/><img src="images/3dl.jpeg?raw=true" width="100" height="120"/> 
 <br>
 CISC 889 Neural Networkss & Deep Learning(Spring’20)<br>CISC 849 Robot Vision & Learning(Fall’19)<br>CIS 700 Advances in Deep Learning(Spring’18)<br>CIS 731 Artificial Neural Networks(Fall’17<br>
 
