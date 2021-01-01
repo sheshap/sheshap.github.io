@@ -10,7 +10,6 @@ My research interests are [Point cloud Classification](https://arxiv.org/pdf/191
 <br>
 Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"Dynamic Local Geometry Capture in 3D Point Cloud Classification." Proceedings of the IEEE 4th International Conference on Multimedia Information Processing and Retrieval (IEEE MIPR 2021).**
 
-
 <br>
 <img src="images/ellipsoid_querying.gif?raw=true" width="200" height="200"/> 
 <br>
@@ -25,6 +24,8 @@ Regional Conference on Complex Systems (NERCCS) - 2018**
 
 [[Paper]](https://github.com/sheshap/sheshap.github.io/blob/master/pdf/SoilMoisturePrediction_LSTM_NERCCS_2018.pdf)
 [[Code]](https://github.com/sheshap/SoilMoisturePrediction)
+<br>
+Manish, et al,**HoS : A metric driven approach to measure Quality/Health of Silicon**, 2nd Runner up, iTech Days 2012, Infineon Technologies India Pvt Ltd, Bengaluru.
 
 ## Conference Paper Reviewer
 CVPR 2021, ACM MMM 2020, ECCV 2020, CVPR 2019, FG 2019.
@@ -58,6 +59,11 @@ Intern: July 2011 - May 2012<br>
 Graduate Student Award, Syracuse University. August 2016 - May 2018<br>
 Third Prize - iTech Days, Infineon India Private Limited, Bengaluru. May 2012 <br>
 
+## Relevant Coursework
+<br>
+<img src="images/1dl.jpeg?raw=true" width="200" height="180"/><img src="images/2dl.jpeg?raw=true" width="200" height="180"/><img src="images/3dl.jpeg?raw=true" width="200" height="180"/> 
+<br>
+CISC 889 Neural Networkss & Deep Learning(Spring’20)<br>CISC 849 Robot Vision & Learning(Fall’19)<br>CIS 700 Advances in Deep Learning(Spring’18)<br>CIS 731 Artificial Neural Networks(Fall’17<br>
 
 ## Programming Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" width="70" height="70"/>      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg?raw=true" width="70" height="70"/>      <img src="https://github.com/valohai/ml-logos/blob/master/cuda.svg?raw=true" width="70" height="70"/>     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?raw=true" width="70" height="70"/>
