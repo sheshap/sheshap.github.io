@@ -42,7 +42,7 @@ M.S.Ramaiah Institute of Technology, Bengaluru (India).<br>
 ## Professional Experience
 **University of Delaware** <br>
 Instructor: Summer 2020<br>
-CISC 210 Introduction to Systems Programming (Online - 43 students)
+CISC 210 Introduction to Systems Programming (Online - 42 students)
 
 **Oracle India Private Limited, Bengaluru**<br>
 IT Consultant: Oct 2012 - Jun 2016<br>
