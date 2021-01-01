@@ -6,7 +6,7 @@ My research interests are [Point cloud Classification](https://arxiv.org/pdf/191
 
 ### Accepted 
 <br>
-<img src="images/dynamicellipsoid.gif?raw=true" width="200" height="200"/> 
+<img src="images/dynamicellipsoid.gif?raw=true" width="250" height="200"/> 
 <br>
 Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"Dynamic Local Geometry Capture in 3D Point Cloud Classification." Proceedings of the IEEE 4th International Conference on Multimedia Information Processing and Retrieval (IEEE MIPR 2021).**
 
@@ -25,6 +25,9 @@ Regional Conference on Complex Systems (NERCCS) - 2018**
 
 [[Paper]](https://github.com/sheshap/sheshap.github.io/blob/master/pdf/SoilMoisturePrediction_LSTM_NERCCS_2018.pdf)
 [[Code]](https://github.com/sheshap/SoilMoisturePrediction)
+
+## Conference Paper Reviewer
+CVPR 2021, ACM MMM 2020, ECCV 2020, CVPR 2019, FG 2019.
 
 ## Education
 Master of Science in Computer Science. May 2018<br>
