@@ -34,12 +34,6 @@ CVPR 2021, ACM MMM 2020, ECCV 2020, CVPR 2019, FG 2019.
 Master of Science in Computer Science. May 2018<br>
 Syracuse University, Syracuse, New York, USA.<br>
 
-Master of Technology in Computer Science and Engineering. August 2012<br>
-R.V. College of Engineering, Bengaluru (India).<br>
-
-Bachelor of Engineering in Computer Science and Engineering. June 2009<br>
-M.S.Ramaiah Institute of Technology, Bengaluru (India).<br>
-
 ## Professional Experience
 **University of Delaware** <br>
 Instructor: Summer 2020<br>
