@@ -1,6 +1,6 @@
-I am a graduate student at the Dept. of Computer and Information Sciences at the University of Delaware. I am doing my research at the [VIMS Laboratory](http://vims.cis.udel.edu/) under the guidance of [Dr. Chandra Kambhamettu](https://www.eecis.udel.edu/~chandra/). I did my Bachelors in Computer Science and Engineering at [M.S.Ramaiah Institute of Technology](http://www.msrit.edu/), Bangalore (2009), a Masters in Computer Science and Engineering at [R.V. College of Engineering](https://www.rvce.edu.in/), Bangalore(2012), interned at [Infineon Technologies Private Limited](https://www.infineon.com/) (2012), worked as an IT Consultant at Oracle India Private Limited (2012-2016) and did a Masters in Computer Science at [Syracuse University](https://www.syracuse.edu/), New York (2018).
+I am a graduate student at the Dept. of Computer and Information Sciences at the University of Delaware. I am doing my research at the [VIMS Laboratory](http://vims.cis.udel.edu/) under the guidance of [Dr. Chandra Kambhamettu](https://www.eecis.udel.edu/~chandra/). Previously, I worked as an IT Consultant at Oracle India Private Limited (2012-2016) and did my Masters in Computer Science at [Syracuse University](https://www.syracuse.edu/), New York (2018).
 
-My research interests are [Point cloud Classification](https://arxiv.org/pdf/1912.12033.pdf), 3D [Graph Convolutional Networks](https://arxiv.org/pdf/1901.00596.pdf), and Geometry Processing.
+My research interests are [Point cloud Classification](https://arxiv.org/pdf/1912.12033.pdf), and Geometry Processing.
 
 ## Publications
 
