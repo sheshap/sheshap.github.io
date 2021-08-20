@@ -5,6 +5,9 @@ My research interests are [Point cloud Classification](https://arxiv.org/pdf/191
 ## Publications
 
 ### Accepted 
+Venkanna Sheshappanavar, Shivanand, Singh, Vinit Veerendraveer, and Chandra Kambhamettu. **"PatchAugment: Local Neighborhood Augmentation in Point Cloud Classification" Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops. 2021.**
+<br>
+
 <br>
 <img src="images/dynamicellipsoid.gif?raw=true" width="250" height="200"/> 
 <br>
