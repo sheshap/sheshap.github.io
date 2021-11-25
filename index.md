@@ -19,6 +19,15 @@ Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"Dynamic Local Ge
 Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"A Novel Local Geometry Capture in PointNet++ for 3D Classification." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2020.**
 [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w16/Sheshappanavar_A_Novel_Local_Geometry_Capture_in_PointNet_for_3D_Classification_CVPRW_2020_paper.html)[[Code]](https://github.com/VimsLab/EllipsoidQuery/)
 
+### Other publications
+Singh, Vinit Veerendraveer, Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"MeshNet++: A Network with a Face". Proceedings of the 29th ACM International Conference on Multimedia. 2021**
+[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475468)
+[[Code]](https://github.com/VimsLab/MeshNet2)
+
+Singh, Vinit Veerendraveer, Venkanna Sheshappanavar, Shivanand, and Chandra Kambhamettu. **"Dilated Mesh Convolutions." 2021 IEEE International Conference on Image Processing (ICIP), Anchorage, Alaska, USA, 19-22 September 2021.**
+[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9506311)
+[[Code]](https://github.com/VimsLab/DMC)
+
 <img src="images/soil_moisture.gif?raw=true" width="200" height="120"/> 
 <br>
 Shivanand Venkanna Sheshappanavar, Chilukuri K. Mohan, and David G. Chandler, **"LSTM based Soil Moisture Prediction", proceedings of the North Eastern
