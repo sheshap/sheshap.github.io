@@ -253,31 +253,6 @@
 		<p align="justify"> PointNet++ model uses ball querying for local geometry capture in its set abstraction layers. Several models based on single scale grouping of PointNet++ continue to use ball querying with a fixed-radius ball. However, ball lacks orientation and is ineffective in capturing complex or varying geometry proportions from different local neighborhoods on the object surface. We propose a novel technique of dynamically oriented and scaled ellipsoid based on unique local information to capture the local geometry better. We also propose ReducedPointNet++, a single set abstraction based single scale grouping model. </p>
             </td>
           </tr>
-
-	  <!-- ellipsoid -->
-          <tr>
-            <td width="35%">
-              <img src='images/ellipsoid_querying.gif' width=100%>
-            </td>
-            <td valign="top" width="70%">
-              <p>
-                <a href="https://arxiv.org/abs/2106.05304">
-                  <papertitle>A novel local geometry capture in pointnet++ for 3d classification</papertitle>
-                </a>
-                <br>
-                <strong>Shivanand Venkanna Sheshappanavar</strong>, Chandra Kambhamettu
-                <br>
-                <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops</em> 2020
-		<br>
-								<a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w16/Sheshappanavar_A_Novel_Local_Geometry_Capture_in_PointNet_for_3D_Classification_CVPRW_2020_paper.pdf">[paper]</a>
-                <a href="https://github.com/VimsLab/EllipsoidQuery">[code]</a>
-								<a href="https://youtu.be/OMZKTH85T8c">[video]</a>
-		<!-- <a href="https://docs.google.com/presentation/d/1iYC5vDQPsb9nG9QCLwpm5TPL8i1F3sxu/edit?usp=sharing&ouid=116890615761823045471&rtpof=true&sd=true">[slides]</a> -->
-		<!-- <a href="https://icml.cc/virtual/2021/poster/9099">[video]</a> -->
-                <p align="justify">Few of the recent deep learning models for 3D point sets classification are dependent on how well the model captures the local geometric structures. PointNet++ model was able to extract the local region features from points by ball querying the local neighborhoods. However, ball querying is less effective in capturing local neighborhoods of high curvature surfaces or regions. In this paper, we demonstrate improvement in the 3D classification results by using ellipsoid querying around centroids, capturing more points in the local neighborhood. We extend the ellipsoid querying technique by orienting it in the direction of principal axes of the local neighborhood for better capture of the local geometry. </p>
-            </td>
-          </tr>
-
           <!-- dilated mesh -->
           <tr>
             <td width="35%">
@@ -326,6 +301,30 @@
                 <p align="justify"> MeshNet is a pioneer in this direction. In this paper, we propose a novel neural network that is substantially deeper than its MeshNet predecessor. This increase in depth is achieved through our specialized convolution and pooling blocks that operate on mesh faces. Our network named MeshNet++ learns local structures at multiple scales and is also robust to shortcomings of mesh decimation. We evaluated it for the shape classification task on various data sets, and results significantly higher than state-of-the-art were observed.</p>
             </td>
           </tr>
+	  <!-- ellipsoid -->
+          <tr>
+            <td width="35%">
+              <img src='images/ellipsoid_querying.gif' width=100%>
+            </td>
+            <td valign="top" width="70%">
+              <p>
+                <a href="https://arxiv.org/abs/2106.05304">
+                  <papertitle>A novel local geometry capture in pointnet++ for 3d classification</papertitle>
+                </a>
+                <br>
+                <strong>Shivanand Venkanna Sheshappanavar</strong>, Chandra Kambhamettu
+                <br>
+                <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops</em> 2020
+		<br>
+								<a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w16/Sheshappanavar_A_Novel_Local_Geometry_Capture_in_PointNet_for_3D_Classification_CVPRW_2020_paper.pdf">[paper]</a>
+                <a href="https://github.com/VimsLab/EllipsoidQuery">[code]</a>
+								<a href="https://youtu.be/OMZKTH85T8c">[video]</a>
+		<!-- <a href="https://docs.google.com/presentation/d/1iYC5vDQPsb9nG9QCLwpm5TPL8i1F3sxu/edit?usp=sharing&ouid=116890615761823045471&rtpof=true&sd=true">[slides]</a> -->
+		<!-- <a href="https://icml.cc/virtual/2021/poster/9099">[video]</a> -->
+                <p align="justify">Few of the recent deep learning models for 3D point sets classification are dependent on how well the model captures the local geometric structures. PointNet++ model was able to extract the local region features from points by ball querying the local neighborhoods. However, ball querying is less effective in capturing local neighborhoods of high curvature surfaces or regions. In this paper, we demonstrate improvement in the 3D classification results by using ellipsoid querying around centroids, capturing more points in the local neighborhood. We extend the ellipsoid querying technique by orienting it in the direction of principal axes of the local neighborhood for better capture of the local geometry. </p>
+            </td>
+          </tr>
+
 					<tr>
             <td width="35%">
               <img src='images/soil_moisture.gif' width=100%>
