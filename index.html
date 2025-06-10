@@ -256,7 +256,25 @@
 
         <!-- Publications-->
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-
+	<!-- MahalanobiskNN -->
+	  <tr>
+            <td width="35%">
+              <img src='images/MahalanobiskNN.gif' width=100%>
+            </td>
+            <td valign="top" width="70%">
+              <p>
+                <a href="">
+                  <papertitle>Mahalanobis k-NN: A Statistical Lens for Robust Point-Cloud Registrations</papertitle>
+                </a>
+                <br>
+                <strong>Tejas Anvekar</strong>,Shivanand Venkanna Sheshappanavar
+		<br>
+		<em>4th Workshop on Image/Video/Audio Quality in Computer Vision and Generative AI, WACV 2025, Tucson, AZ, USA</em>
+		<br>
+		<a href="https://arxiv.org/pdf/2409.06267">[paper]</a> <a href="https://github.com/TejasAnvekar/Mahalanobis-k-NN">[code]</a> <br>
+		<p align="justify"> In this paper, we discuss Mahalanobis k-NN: a statistical lens designed to address the challenges of feature matching in learning-based point cloud registration when confronted with an arbitrary density of point clouds, either in the source or target point cloud. We tackle this by adopting Mahalanobis k-NN's inherent property to capture the distribution of the local neighborhood and surficial geometry. Our method can be seamlessly integrated into any local-graph-based point cloud analysis method. This paper focuses on two distinct methodologies: Deep Closest Point (DCP) and Deep Universal Manifold Embedding (DeepUME). Our extensive benchmarking on the ModelNet40 and Faust datasets highlights the efficacy of the proposed method in point cloud registration tasks. Moreover, we establish for the first time that the features acquired through point cloud registration inherently can possess discriminative capabilities. This is evident by a substantial improvement of about 20% in the average accuracy observed in the point cloud few-shot classification task benchmarked on ModelNet40 and ScanObjectNN.</p>
+            </td>
+        </tr>
 
 	<!-- EDADepth -->
           <tr>
@@ -275,25 +293,6 @@
 		<br>
 		<a href="https://arxiv.org/pdf/2409.06183">[paper]</a> <a href="https://github.com/edadepthmde/EDADepth_ICMLA">[code]</a> <br>
 		<p align="justify"> Due to their text-to-image synthesis feature, diffusion models have recently seen a rise in visual perception tasks, such as depth estimation. The lack of good-quality datasets makes extracting fine-grain semantic context challenging for the diffusion models. The semantic context with fewer details further worsens the process of creating effective text embeddings that will be used as input for diffusion models. This paper proposes a novel EDADepth, an Enhanced Data Augmentation method for Monocular Depth Estimation without using extra training data. We use Swin2SR, a super-resolution model, to enhance the quality of input images. We employ the BEiT pre-trained semantic segmentation model to extract better text embeddings. Furthermore, we introduce the BLIP-2 tokenizer to generate tokens from these text embeddings. The novelty of our approach is the introduction of Swin2SR, BEiT model, and BLIP-2 tokenizer in the diffusion-based pipeline for monocular depth estimation. Our model achieves state-of-the-art results (SOTA) on the d3 metric on both NYUv2 and KITTI datasets. It also achieves results comparable to those of the SOTA models in the RMSE and REL metrics. Finally, we also show improvements in the visualization of the estimated depth compared to the SOTA diffusion-based monocular depth estimation models. </p>
-            </td>
-        </tr>
-	<!-- MahalanobiskNN -->
-	  <tr>
-            <td width="35%">
-              <img src='images/MahalanobiskNN.gif' width=100%>
-            </td>
-            <td valign="top" width="70%">
-              <p>
-                <a href="">
-                  <papertitle>Mahalanobis k-NN: A Statistical Lens for Robust Point-Cloud Registrations</papertitle>
-                </a>
-                <br>
-                <strong>Tejas Anvekar</strong>,Shivanand Venkanna Sheshappanavar
-		<br>
-		<em>4th Workshop on Image/Video/Audio Quality in Computer Vision and Generative AI, WACV 2025, Tucson, AZ, USA</em>
-		<br>
-		<a href="https://arxiv.org/pdf/2409.06267">[paper]</a> <a href="https://github.com/TejasAnvekar/Mahalanobis-k-NN">[code]</a> <br>
-		<p align="justify"> In this paper, we discuss Mahalanobis k-NN: a statistical lens designed to address the challenges of feature matching in learning-based point cloud registration when confronted with an arbitrary density of point clouds, either in the source or target point cloud. We tackle this by adopting Mahalanobis k-NN's inherent property to capture the distribution of the local neighborhood and surficial geometry. Our method can be seamlessly integrated into any local-graph-based point cloud analysis method. This paper focuses on two distinct methodologies: Deep Closest Point (DCP) and Deep Universal Manifold Embedding (DeepUME). Our extensive benchmarking on the ModelNet40 and Faust datasets highlights the efficacy of the proposed method in point cloud registration tasks. Moreover, we establish for the first time that the features acquired through point cloud registration inherently can possess discriminative capabilities. This is evident by a substantial improvement of about 20% in the average accuracy observed in the point cloud few-shot classification task benchmarked on ModelNet40 and ScanObjectNN.</p>
             </td>
         </tr>
 		
