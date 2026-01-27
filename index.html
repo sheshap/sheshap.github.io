@@ -25,6 +25,7 @@
       text-decoration: none;
     }
 
+	  
     a:focus,
     a:hover {
       color: #f09228;
@@ -121,6 +122,7 @@
 	      <p align="justify"> <strong>
 	        Recent News: </strong>
 	        <ul>
+		  <li> <i>January 2026</i> Congratulations to Jasmine Vu for paper acceptance at <a href="https://p2pcv-wacv.github.io/p2pcv.github.io/">WACV 2026 Workshop Pixels to Patients</a>
 		  <li> <i>December 2025</i> Welcome to Master student Nabaraj Subedi (MS in CS)!
 		  <li> <i>November 2025</i> Welcome to Master student Toyio Udoete (MS in AI)!
 		  <li> <i>October 2025</i> Welcome to post-doc Dr. Xaio Yang!
@@ -284,6 +286,25 @@
 
         <!-- Publications-->
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+				<!-- ClipNegation -->
+	  <tr>
+            <td width="35%">
+              <img src='images/ClipMedNeg_gif.gif' width=100%>
+            </td>
+            <td valign="top" width="70%">
+              <p>
+                <a href="">
+                  <papertitle>Improving Negation Understanding in Medical Vision–Language Models via Contrastive Fine-Tuning</papertitle>
+                </a>
+                <br>
+                <strong>Jasmine Vu</strong>, Shivanand Venkanna Sheshappanavar
+		<br>
+		<em>Workshop Pixels to Patients in Computer Vision, WACV 2026, Tucson, AZ, USA</em>
+		<br>
+		<a href="https://arxiv.org/pdf/2512.17121">[Paper]</a> <a href="">[Code coming soon]</a> <br>
+		<p align="justify"> Large vision-language models like CLIP are increasingly used in medical imaging tasks due to their ability to align images and text without the need for extensive labeled data. This makes them particularly useful for applications like image retrieval, report generation, and classification in clinical settings. A potential issue to this approach is that CLIP-based models often under perform when interpreting negated phrases, which is especially problematic in the context of medical diagnosing. In this study, we evaluate the Stanford AIMI CheXagent model on its ability to correctly retrieve chest X-ray images using prompts with and without negation. The goal of this project is to understand where this model fails and then use it as a base model to improve its retrieval accuracy by fine tuning methods outlined in previous work. Results from this study show improvement in handling of negation in the CLIP model with a slight decrease in accuracy of positive prompt evaluation. Alongside retrieval accuracy, we examined internal model behavior through token attribution, t-SNE projection, and attention-head ablation to better characterize how each fine-tuning approach reshaped the text encoder’s representation of negated clinical language. Through this work, we hope to better understand the internal behavior of CLIP and improve its handling of negation using clinically relevant language for improving its reliability in medical AI devices. </p>
+            </td>
+        </tr>
 		<!-- GroceryWild500 -->
 	  <tr>
             <td width="35%">
