@@ -291,6 +291,46 @@
         </table>
 
         <!-- Publications-->
+	        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+				<!-- Sam3Count -->
+	  <tr>
+            <td width="35%">
+              <img src='images/Sam3count.gif' width=100%>
+            </td>
+            <td valign="top" width="70%">
+              <p>
+                <a href="">
+                  <papertitle>SAM3Count for Zero-Shot Open Vocabulary Counting in Images and Videos</papertitle>
+                </a>
+                <br>
+                <strong>Joana Owusu</strong>, Shivanand Venkanna Sheshappanavar
+		<br>
+		<em>Women in Computer Vision Workshop, CVPR 2026, Denver, CO, USA</em>
+		<br>
+		<a href="Coming soon">[Paper]</a> <a href="https://github.com/Joan947/SAM3Count">[Code]</a> <br>
+		<p align="justify"> Open-vocabulary counting (OVC) has garnered significant attention for its ability to count without relying on manual exemplars or class-specific requirements. OVC requires prompt localization, scene understanding, and composition, as well as the ability to distinguish between instances of the same object type. Most methods rely on manually adding exemplars along with text prompts to aid localization and improve performance, but this comes at the cost of ease of use. In the video domain, OVC is equally important for real-time applications, given the challenges posed by occlusions, deformations, and fragmentation.  We introduce SAM3Count, a zero-shot SAM3-based OVC framework for images and videos. For video counting, SAM3Count builds on SAM3 by designing a lightweight re-identification tracker that maintains an appearance bank to recover lost tracks and curb identity switches. For images, it uses adaptive ROI tiling to improve counting performance across diverse scenes without requiring manual exemplars or priors. SAM3Count achieves impressive results, surpassing the most recent state-of-the-art (SOTA) methods across image (FSCD-147, ShanghaiTech, CARPK) and video (TAO-Count, Penguins) benchmarks. </p>
+            </td>
+        </tr>
+	        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+				<!-- Negation Matters -->
+	  <tr>
+            <td width="35%">
+              <img src='images/NegationMatters.gif' width=100%>
+            </td>
+            <td valign="top" width="70%">
+              <p>
+                <a href="">
+                  <papertitle>Negation Matters: Training-Free Negation-Aware Image Retrieval</papertitle>
+                </a>
+                <br>
+                <strong>Aashish Pokhrel</strong>, Shivanand Venkanna Sheshappanavar
+		<br>
+		<em>GRAIL-V Workshop, CVPR 2026, Denver, CO, USA</em>
+		<br>
+		<a href="">[Paper coming soon]</a> <a href="https://github.com/aashishpokhrel27/spacevlm-drc">[Code]</a> <br>
+		<p align="justify"> Negation—the linguistic ability to assert the absence of a concept—is a critical bottleneck in vision-language understanding. Vision-language models have demonstrated remarkable success in aligning visual and textual representation across domains such as content moderation, medical image retrieval, and natural language-guided search. Yet, these models consistently fail to handle negation robustly, often retrieving images that contain the very concept that was explicitly excluded. Existing methods address this limitation through fine-tuning on synthetic negation corpora—an approach that is computationally expensive, dataset-dependent, and prone to compromising generalization to unseen distributions. We propose \textbf{SpaceVLM-DRC}, which introduces \textbf{D}ynamic \textbf{R}epulsion with \textbf{C}ontext Anchoring (DRC) into the SpaceVLM framework as a training-free inference time negation resolution mechanism over a frozen CLIP backbone. This framework first decomposes queries into affirmative, negated, and counterfactual components, then applies dynamic repulsion to push negated concepts away in the embedding space, and finally anchors retrieval within the full-caption context to preserve semantic coherence. SpaceVLM-DRC surpasses state-of-the-art results on the MSRVTT negation retrieval benchmark and achieves performance comparable to fully fine-tuned approaches on the COCO negated retrieval dataset. Crucially, it requires no model retraining while preserving zero-shot generalization on non-negated queries. </p>
+            </td>
+        </tr>	
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 				<!-- ClipNegation -->
 	  <tr>
@@ -326,7 +366,7 @@
 			<br>
 		<em>3rd Workshop on MetaFood Workshop in CVPR 2026, Denver, CO, USA</em>
 		<br>
-		<a href="">[paper coming soon]</a> <a href="">[project page coming soon]</a> <br>
+		<a href="">[paper coming soon]</a> <a href="https://github.com/sheshap/GroceryWild500">[project page]</a> <br>
 		<p align="justify"> With the advent of Neural Radiance Fields (NeRFs) and 3D Gaussian Splatting (3DGS), novel view synthesis has become a central tool for 3D scene analysis. Despite progress, there remains a lack of publicly available datasets in the grocery domain, which features diverse geometry, lighting, materials, and text-rich packaging. We introduce GroceryWild500, a large-scale benchmark of 547 real-world grocery store scenes spanning fruits, vegetables, and packaged goods, organized into 74 semantic categories. Each scene is captured via mobile devices and processed into both COLMAP-style and Nerfstudio-style formats, ensuring compatibility with a wide range of reconstruction pipelines. We benchmark six state-of-the-art NeRF and 3DGS models, complemented by ablation studies on variable image resolution and views, as well as task-based experiments such as segmentation and extended Gaussian Splatting variants. Our results highlight the scale and difficulty of GroceryWild500 compared to canonical datasets. GroceryWild500 establishes a foundation for future research in reconstruction, segmentation, and multimodal scene understanding.</p>
             </td>
         </tr>
