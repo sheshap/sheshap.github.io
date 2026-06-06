@@ -131,10 +131,10 @@
 		  <li> <i>March 2026</i> Congratulations to Joana Owusu for paper acceptance at <a href="https://sites.google.com/view/wicv-cvpr-2026/">CVPR 2026 Women in Computer Vision workshop</a>
 		  <li> <i>March 2026</i> Congratulations to Aashish Pokhrel for paper acceptance at <a href="https://grailworkshops.github.io/">CVPR 2026 Workshop Grounded Retrieval and Agentic Intelligence for Vision-Language</a>
 		  <li> <i>January 2026</i> Congratulations to Jasmine Vu for paper acceptance at <a href="https://p2pcv-wacv.github.io/p2pcv.github.io/">WACV 2026 Workshop Pixels to Patients</a>
-		  <li> <i>December 2025</i> Welcome to Master student Nabaraj Subedi (MS in CS)!
+<!--		  <li> <i>December 2025</i> Welcome to Master student Nabaraj Subedi (MS in CS)!
 		  <li> <i>November 2025</i> Welcome to Master student Toyio Udoete (MS in AI)!
 		  <li> <i>October 2025</i> Welcome to post-doc Dr. Xaio Yang!
-<!--		  <li> <i>September 2025</i> Invited to serve as Reviewer (<a href="https://iclr.cc/">ICLR 2026</a>).
+		  <li> <i>September 2025</i> Invited to serve as Reviewer (<a href="https://iclr.cc/">ICLR 2026</a>).
 		  <li> <i>September 2025</i> Invited as Reviewer for <a href="https://cvpr.thecvf.com/Conferences/2026"> CVPR 2026</a>
 		  <li> <i>August 2025</i> Invited as Reviewer for <a href="https://3dvconf.github.io/2026/"> 3DV 2026</a>
 		  <li> <i>August 2025</i> Welcoming three Master's students, Aashish, Bipin, and Prashanna!
@@ -341,8 +341,7 @@
 		<em>GRAIL-V Workshop, CVPR 2026, Denver, CO, USA</em>
 		<br>
 		<a href="">[Paper coming soon]</a> <a href="https://github.com/aashishpokhrel27/spacevlm-drc">[Code]</a> <br>
-		<p align="justify"> Negation—the linguistic ability to assert the absence of a concept—is a critical bottleneck in vision-language understanding. Vision-language models have demonstrated remarkable success in aligning visual and textual representation across domains such as content moderation, medical image retrieval, and natural language-guided search. Yet, these models consistently fail to handle negation robustly, often retrieving images that contain the very concept that was explicitly excluded. Existing methods address this limitation through fine-tuning on synthetic negation corpora—an approach that is computationally expensive, dataset-dependent, and prone to compromising generalization to unseen distributions. We propose \textbf{SpaceVLM-DRC}, which introduces \textbf{D}ynamic \textbf{R}epulsion with \textbf{C}ontext Anchoring (DRC) into the SpaceVLM framework as a training-free inference time negation resolution mechanism over a frozen CLIP backbone. This framework first decomposes queries into affirmative, negated, and counterfactual components, then applies dynamic repulsion to push negated concepts away in the embedding space, and finally anchors retrieval within the full-caption context to preserve semantic coherence. SpaceVLM-DRC surpasses state-of-the-art results on the MSRVTT negation retrieval benchmark and achieves performance comparable to fully fine-tuned approaches on the COCO negated retrieval dataset. Crucially, it requires no model retraining while preserving zero-shot generalization on non-negated queries. </p>
-            </td>
+			</td>
         </tr>	
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 				<!-- ClipNegation -->
@@ -361,8 +360,7 @@
 		<em>Workshop Pixels to Patients in Computer Vision, WACV 2026, Tucson, AZ, USA</em>
 		<br>
 		<a href="https://arxiv.org/pdf/2512.17121">[Paper]</a> <a href="">[Code coming soon]</a> <br>
-		<p align="justify"> Large vision-language models like CLIP are increasingly used in medical imaging tasks due to their ability to align images and text without the need for extensive labeled data. This makes them particularly useful for applications like image retrieval, report generation, and classification in clinical settings. A potential issue to this approach is that CLIP-based models often under perform when interpreting negated phrases, which is especially problematic in the context of medical diagnosing. In this study, we evaluate the Stanford AIMI CheXagent model on its ability to correctly retrieve chest X-ray images using prompts with and without negation. The goal of this project is to understand where this model fails and then use it as a base model to improve its retrieval accuracy by fine tuning methods outlined in previous work. Results from this study show improvement in handling of negation in the CLIP model with a slight decrease in accuracy of positive prompt evaluation. Alongside retrieval accuracy, we examined internal model behavior through token attribution, t-SNE projection, and attention-head ablation to better characterize how each fine-tuning approach reshaped the text encoder’s representation of negated clinical language. Through this work, we hope to better understand the internal behavior of CLIP and improve its handling of negation using clinically relevant language for improving its reliability in medical AI devices. </p>
-            </td>
+		  </td>
         </tr>
 		<!-- GroceryWild500 -->
 	  <tr>
@@ -380,8 +378,7 @@
 		<em>3rd Workshop on MetaFood Workshop in CVPR 2026, Denver, CO, USA</em>
 		<br>
 		<a href="">[paper coming soon]</a> <a href="https://github.com/sheshap/GroceryWild500">[project page]</a> <br>
-		<p align="justify"> With the advent of Neural Radiance Fields (NeRFs) and 3D Gaussian Splatting (3DGS), novel view synthesis has become a central tool for 3D scene analysis. Despite progress, there remains a lack of publicly available datasets in the grocery domain, which features diverse geometry, lighting, materials, and text-rich packaging. We introduce GroceryWild500, a large-scale benchmark of 547 real-world grocery store scenes spanning fruits, vegetables, and packaged goods, organized into 74 semantic categories. Each scene is captured via mobile devices and processed into both COLMAP-style and Nerfstudio-style formats, ensuring compatibility with a wide range of reconstruction pipelines. We benchmark six state-of-the-art NeRF and 3DGS models, complemented by ablation studies on variable image resolution and views, as well as task-based experiments such as segmentation and extended Gaussian Splatting variants. Our results highlight the scale and difficulty of GroceryWild500 compared to canonical datasets. GroceryWild500 establishes a foundation for future research in reconstruction, segmentation, and multimodal scene understanding.</p>
-            </td>
+		   </td>
         </tr>
 
 		<!-- UPD-3D -->
@@ -400,8 +397,7 @@
 <!-- 		<em></em>
 		<br> -->
 		<a href="">[paper coming soon]</a> <a href="">[code coming soon]</a> <br>
-		<p align="justify">Unsolvable Problem Detection (UPD) refers to a Large Language Model’s (LLMs) ability to recognize and refrain from responding to unsolvable or poorly posed questions, a capability that is essential for safe deployment in understanding the real world (3D scenes). Recently, UPD has gained traction in the evaluation of LLMs.  However, UPD has been underexplored in the 3D domain.  Although 2D-LLMs have been evaluated for UPD, similar evaluations for 3D-LLMs remain unexplored due to the novelty of the task and the lack of suitable datasets. To address this gap, we introduce the first UPD-3D benchmark constructed from the popular 3D-GRAND dataset. This benchmark comprises 11,964 scene-level samples for each of the 12 distinct UPD categories, partitioned into roughly 8,971 training and 2,993 testing instances. We establish 3D-UPD baselines by benchmarking two recent 3D-LLMs, namely MiniGPT-3D (ACM MM'24) and GreenPLM (AAAI'25). Evaluation of these 3D-LLMs directly using our test set shows critical failure modes and emphasizes the necessity of incorporating UPD capabilities into future 3D-LLMs. Our training-based evaluations of these 3D-LLMs demonstrated a significant improvement in the performance of these models in more than 50\% of the distinct UPD categories.  </p>
-            </td>
+		  </td>
         </tr>
 			
 	<!-- LoRApLM -->
@@ -420,8 +416,7 @@
 		<em>Extended Abstract at Women in Computer Vision Workshop, CVPR 2025, Nashville, TN, USA</em>
 		<br>
 		<a href="https://github.com/sheshap/sheshap.github.io/blob/master/pdf/cvpr25_poster_template_LoRApLM.pdf">[poster]</a> <br>
-		<p align="justify">  In adaptive laboratory evolution (ALE), microorganisms are subjected to a range of environmental pressures, such as temperature and radiation, in multiple experimental trials to induce naturally occurring, yet desirable, phenotypes. This approach has paved the way for innovations in protein engineering, yielding improvements in biological properties. However, ALE is constrained by its high demand for intensive resources, including the expertise of highly skilled biologists, costly equipment, and a large volume of biological samples, as well as the continuous oversight required to maintain such experimental rigor. One solution is to leverage protein language models (pLMs) to predict impactful mutations and drive evolutionary trajectories without direct human supervision. In this work, ESM-2 is fine-tuned using Low-Rank Adaptation (LoRA) on Escherichia coli data from the ALEdb database for variant effect prediction.</p>
-            </td>
+		   </td>
         </tr>
 	<!-- MahalanobiskNN -->
 	  <tr>
@@ -439,8 +434,7 @@
 		<em>4th Workshop on Image/Video/Audio Quality in Computer Vision and Generative AI, WACV 2025, Tucson, AZ, USA</em>
 		<br>
 		<a href="https://arxiv.org/pdf/2409.06267">[paper]</a> <a href="https://github.com/TejasAnvekar/Mahalanobis-k-NN">[code]</a> <br>
-		<p align="justify"> In this paper, we discuss Mahalanobis k-NN: a statistical lens designed to address the challenges of feature matching in learning-based point cloud registration when confronted with an arbitrary density of point clouds, either in the source or target point cloud. We tackle this by adopting Mahalanobis k-NN's inherent property to capture the distribution of the local neighborhood and surficial geometry. Our method can be seamlessly integrated into any local-graph-based point cloud analysis method. This paper focuses on two distinct methodologies: Deep Closest Point (DCP) and Deep Universal Manifold Embedding (DeepUME). Our extensive benchmarking on the ModelNet40 and Faust datasets highlights the efficacy of the proposed method in point cloud registration tasks. Moreover, we establish for the first time that the features acquired through point cloud registration inherently can possess discriminative capabilities. This is evident by a substantial improvement of about 20% in the average accuracy observed in the point cloud few-shot classification task benchmarked on ModelNet40 and ScanObjectNN.</p>
-            </td>
+		   </td>
         </tr>
 
 	<!-- EDADepth -->
@@ -459,8 +453,7 @@
 		<em>2024 23rd International Conference on Machine Learning and Applications (IEEE, 2024), December 2024, Miami, Florida, USA</em>
 		<br>
 		<a href="https://arxiv.org/pdf/2409.06183">[paper]</a> <a href="https://github.com/edadepthmde/EDADepth_ICMLA">[code]</a> <br>
-		<p align="justify"> Due to their text-to-image synthesis feature, diffusion models have recently seen a rise in visual perception tasks, such as depth estimation. The lack of good-quality datasets makes extracting fine-grain semantic context challenging for the diffusion models. The semantic context with fewer details further worsens the process of creating effective text embeddings that will be used as input for diffusion models. This paper proposes a novel EDADepth, an Enhanced Data Augmentation method for Monocular Depth Estimation without using extra training data. We use Swin2SR, a super-resolution model, to enhance the quality of input images. We employ the BEiT pre-trained semantic segmentation model to extract better text embeddings. Furthermore, we introduce the BLIP-2 tokenizer to generate tokens from these text embeddings. The novelty of our approach is the introduction of Swin2SR, BEiT model, and BLIP-2 tokenizer in the diffusion-based pipeline for monocular depth estimation. Our model achieves state-of-the-art results (SOTA) on the d3 metric on both NYUv2 and KITTI datasets. It also achieves results comparable to those of the SOTA models in the RMSE and REL metrics. Finally, we also show improvements in the visualization of the estimated depth compared to the SOTA diffusion-based monocular depth estimation models. </p>
-            </td>
+		  </td>
         </tr>
 		
 	<!-- 3DGrocery100 -->
@@ -479,8 +472,7 @@
 		<em> 2024 International Conference on 3D Vision (3DV) (IEEE, 2024), March 2024, Davos, Switzerland. </em>
 		<br>
 		<a href="https://arxiv.org/pdf/2402.07819.pdf">[paper]</a> <a href="http://vims.cis.udel.edu/3DGrocery100/">[project page]</a> <br>
-		<p align="justify">We introduce a large-scale grocery dataset called 3DGrocery100. It constitutes 100 classes, 10,755 RGB-D images, and 87,898 3D point cloud objects. We benchmark our dataset on six recent state-of-the-art 3D object classification models. 3DGrocery100 is the largest real-world 3D point cloud grocery dataset. </p>
-            </td>
+		   </td>
           </tr>	
 		
 	   <!-- Local Neighborhood Features for 3D Classification -->
@@ -499,8 +491,7 @@
 		<em>22nd Scandinavian Conference In Image Analysis (SCIA), April 2023, Levi Ski Resort (Lapland), Finland. </em>
 		<br>
 		<a href="https://arxiv.org/pdf/2212.05140.pdf">[paper]</a> <a href="https://github.com/VimsLab/Local3DFeatures">[code]</a> <br>
-		<p align="justify">With advances in deep learning model training strategies, the training of Point cloud classification methods is significantly improving. For example, PointNeXt, which adopts prominent training techniques and InvResNet layers into PointNet++, achieves over 7% improvement on the real-world ScanObjectNN dataset. However, most of these models use point coordinates features of neighborhood points mapped to higher dimensional space while ignoring the neighborhood point features computed before feeding to the network layers. In this paper, we revisit the PointNeXt model to study the usage and benefit of such neighborhood point features.</p>
-            </td>
+		    </td>
           </tr>
 		
 	  <!-- simpleview++ -->
@@ -519,8 +510,7 @@
                 <em>IEEE 5th International Conference on Multimedia Information Processing and Retrieval (MIPR) 2022</em>
 		<br>
 		<a href="https://ieeexplore.ieee.org/document/9874679">[paper]</a> <a href="https://github.com/VimsLab/SimpleViewPlusPlus">[code]</a> <a href="https://youtu.be/lLoUiqqJPHg">[video]</a><br>
-		<p align="justify">We propose the use of neighbor projections along with object projections to learn finer local structural information. SimpleView++ concatenates features from orthogonal perspective projections at object and neighbor levels with encoded features from the point cloud.</p>
-            </td>
+		   </td>
           </tr>
 
 	  <!-- patch aug -->
@@ -539,8 +529,7 @@
                 <em> IEEE/CVF International Conference on Computer Vision (ICCV) Workshops 2021</em>
 		<br>
 		<a href="https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Sheshappanavar_PatchAugment_Local_Neighborhood_Augmentation_in_Point_Cloud_Classification_ICCVW_2021_paper.pdf">[paper]</a> <a href="https://github.com/VimsLab/PatchAugment">[code]</a> <a href="https://youtu.be/YqP7UVhwdWQ">[video]</a> <br>
-		<p align="justify">Different local neighborhoods on the object surface hold a different amount of geometric complexity. Applying the same data augmentation techniques at the object level is less effective in augmenting local neighborhoods with complex structures. This paper presents PatchAugment, a data augmentation framework to apply different augmentation techniques to the local neighborhoods.</p>
-            </td>
+		    </td>
           </tr>
 
 	  <!-- dynamic scale -->
@@ -561,8 +550,7 @@
 		<a href="https://ieeexplore.ieee.org/document/9565556">[paper]</a> <a href="https://github.com/VimsLab/DynamicScale">[code]</a> <a href="https://youtu.be/Ev44a02mwCg">[video]</a><br>
                 <!-- <a href="https://syncedreview.com/2021/10/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-129/"><img src='images/synced.png' height=25px></a> &nbsp; &nbsp;
                 <a href="https://papersread.ai/e/non-deep-networks/"><img src='images/podbean.png' height=25px></a> -->
-		<p align="justify"> PointNet++ model uses ball querying for local geometry capture in its set abstraction layers. Several models based on single scale grouping of PointNet++ continue to use ball querying with a fixed-radius ball. However, ball lacks orientation and is ineffective in capturing complex or varying geometry proportions from different local neighborhoods on the object surface. We propose a novel technique of dynamically oriented and scaled ellipsoid based on unique local information to capture the local geometry better. We also propose ReducedPointNet++, a single set abstraction based single scale grouping model. </p>
-            </td>
+		   </td>
           </tr>
           <!-- dilated mesh -->
           <tr>
@@ -586,8 +574,7 @@
 		<!-- <a href="https://drive.google.com/file/d/1lWA2WlJR4itJJrnHMRiZ87-z8akagkH4/view?usp=sharing">[slides]</a> -->
 
 		<a href="https://youtu.be/Jdl71d3oMRE">[video]</a>
-                <p align="justify"> In this paper, inspired by dilated convolutions for images, we proffer dilated convolutions for meshes. Our Dilated Mesh Convolution (DMC) unit inflates the kernels' receptive field without increasing the number of learnable parameters. We also propose a Stacked Dilated Mesh Convolution (SDMC) block by stacking DMC units. We accommodated SDMC in MeshNet to classify 3D meshes. </p>
-            </td>
+                   </td>
           </tr>
 
           <!-- meshnet++ -->
@@ -609,8 +596,7 @@
                 <a href="https://github.com/VimsLab/MeshNet2">[code]</a>
 								<a href="https://youtu.be/xcfnhrYqKac">[video]</a>
                 <!-- <a href="data/packit_slides.pptx">[slides]</a> -->
-                <p align="justify"> MeshNet is a pioneer in this direction. In this paper, we propose a novel neural network that is substantially deeper than its MeshNet predecessor. This increase in depth is achieved through our specialized convolution and pooling blocks that operate on mesh faces. Our network named MeshNet++ learns local structures at multiple scales and is also robust to shortcomings of mesh decimation. We evaluated it for the shape classification task on various data sets, and results significantly higher than state-of-the-art were observed.</p>
-            </td>
+              </td>
           </tr>
 	  <!-- ellipsoid -->
           <tr>
@@ -632,8 +618,7 @@
 								<a href="https://youtu.be/OMZKTH85T8c">[video]</a>
 		<!-- <a href="https://docs.google.com/presentation/d/1iYC5vDQPsb9nG9QCLwpm5TPL8i1F3sxu/edit?usp=sharing&ouid=116890615761823045471&rtpof=true&sd=true">[slides]</a> -->
 		<!-- <a href="https://icml.cc/virtual/2021/poster/9099">[video]</a> -->
-                <p align="justify">Few of the recent deep learning models for 3D point sets classification are dependent on how well the model captures the local geometric structures. PointNet++ model was able to extract the local region features from points by ball querying the local neighborhoods. However, ball querying is less effective in capturing local neighborhoods of high curvature surfaces or regions. In this paper, we demonstrate improvement in the 3D classification results by using ellipsoid querying around centroids, capturing more points in the local neighborhood. We extend the ellipsoid querying technique by orienting it in the direction of principal axes of the local neighborhood for better capture of the local geometry. </p>
-            </td>
+               </td>
           </tr>
 
 					<tr>
@@ -654,8 +639,7 @@
                 <a href="https://github.com/sheshap/SoilMoisturePrediction">[code]</a>
 								<!-- <a href="https://youtu.be/xcfnhrYqKac">[video]</a> -->
                 <!-- <a href="data/packit_slides.pptx">[slides]</a> -->
-                <p align="justify"> Soil moisture content is an important variable that has a considerable impact on agricultural processes and practical weather-related concerns such as flooding and drought. We address the problem of predicting soil moisture by applying recurrent neural networks that use Long Short-Term Memory (LSTM) models. The success of our approach is evaluated using a dataset obtained from ground-based sensor infrastructure networks. Feature reduction using a mutual information approach is shown to be more effective than feature extraction using principal component analysis.</p>
-            </td>
+                  </td>
           </tr>
         </table>
 
